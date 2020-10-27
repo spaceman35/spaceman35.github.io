@@ -1,2 +1,2 @@
 # seankelly.space
- Personal website
+ This is my personal website, just for fun :) 

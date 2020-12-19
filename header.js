@@ -12,7 +12,6 @@ class Header extends HTMLElement {
           <a href="./apollo.html">Apollo</a>
           <a href="./astrophotography.html">Astrophotography</a>
           <a href="./cyberdeck.html">Cyberdeck</a>
-          <a href="./chat.html">Chat</a>
         </nav>
       </header>
     `;
